@@ -1,6 +1,6 @@
 -  Hi, I’m @Omyadavjss👋A Front end Developer
-- 👀 I’m passionate about cloud technologies
-- 🌱 I’m currently learning Fundamentals of information technology And AWS.
+- 👀 I’m passionate about Machine learning
+- 🌱 I’m currently learning Fundamentals of information technology.
 - 💞️ I’m looking to collaborate on open source project and ideas
 - 🥅 2022 Goal: to be a professional problem solver.
 - 👯 I’m looking to collaborate with other content creators.
